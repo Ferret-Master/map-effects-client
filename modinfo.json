@@ -12,6 +12,7 @@
 	"icon": "",
     "author": "Ferretmaster",
     "priority": 100,
+	"framework":true,
 	"scenes": {
 		"live_game": [
 			"coui://ui/mods/csg_effects/live_game.js",
