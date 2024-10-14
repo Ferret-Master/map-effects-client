@@ -1,0 +1,25 @@
+{
+
+	"build": "120799",
+	"context": "client",
+	"date": "2024-10-14",
+	"display_name": "Map Effects Client",
+	"description": "Allows effects to be displayed on the maps, framework for other mods",
+	"forum": "https://github.com/Ferret-Master/map-effects/discussions",
+	"identifier": "com.pa.ferretmaster.map-effects-client",
+	"signature": "not yet implemented",
+	"version": "1.0",
+	"icon": "",
+    "author": "Ferretmaster",
+    "priority": 100,
+	"scenes": {
+		"live_game": [
+			"coui://ui/mods/csg_effects/live_game.js",
+			"coui://ui/mods/csg_effects/puppet_framework.js"
+		]
+	  },
+	"category":
+	[
+		"ui"
+	]
+}

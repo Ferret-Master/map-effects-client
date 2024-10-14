@@ -1,2 +1,2 @@
-# map-effects-client
- Allows effects to be displayed on the maps, framework for other mods
+# map effects
+ backend to allow maps to have visible pfx effects
