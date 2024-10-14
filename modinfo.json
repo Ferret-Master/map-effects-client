@@ -4,7 +4,7 @@
 	"context": "client",
 	"date": "2024-10-14",
 	"display_name": "Map Effects Client",
-	"description": "Allows effects to be displayed on the maps, framework for other mods",
+	"description": "Allows effects to be displayed on the maps, framework for other mods. used by mods that want effects not dependent on the host",
 	"forum": "https://github.com/Ferret-Master/map-effects/discussions",
 	"identifier": "com.pa.ferretmaster.map-effects-client",
 	"signature": "not yet implemented",
@@ -20,6 +20,8 @@
 	  },
 	"category":
 	[
-		"ui"
+		"ui",
+		"titans",
+		"classic"
 	]
 }
